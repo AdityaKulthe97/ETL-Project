@@ -11,7 +11,10 @@ Transform Phase :- As data is in raw format I have to perform data processing an
 
 Load Phase :- In this phase I used to load clean data into MySQL database tables. Load data is used for 
 bi reporting to find measures like total user count, popular station name, popular trip duration.
+
 • Based on user count company know about target audience so they can provide offer on subscription.
+
 • Popular station name is used to forecast demand for bike or stations. 
+
 • Popular trip duration is used to understand customer usage pattern based on it we can estimate budget for maintenance of bike. 
 In this way this project helpful for company to increase revenue of company.
